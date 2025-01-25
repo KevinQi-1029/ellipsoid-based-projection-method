@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./Picture/bicycle.png" alt="Logo" width="95%">
+    <img src="./assets/bicycle.png" alt="Logo" width="95%">
   </a>
 </p>
 
